@@ -1,4 +1,6 @@
 # Spring Boot JWT Authentication
+> This project is a practice implementation I built  
+> to learn and understand **JWT authentication** in Spring Boot.
 
 This project demonstrates how to implement **JWT-based authentication** in a Spring Boot application using:
 - `Spring Security`
